@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebINV", "WebINV\WebINV.csproj", "{5DED4A41-015B-4174-B64F-93B7450678BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DED4A41-015B-4174-B64F-93B7450678BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DED4A41-015B-4174-B64F-93B7450678BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DED4A41-015B-4174-B64F-93B7450678BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DED4A41-015B-4174-B64F-93B7450678BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AA3BE5F-9CE1-487E-B969-DB81FB85F28B}
+	EndGlobalSection
+EndGlobal

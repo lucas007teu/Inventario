@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebINV
+build_property.RootNamespace = WebINV
+build_property.ProjectDir = W:\users\lucas.mfsimiao\source\repos\WebINV\WebINV\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = W:\users\lucas.mfsimiao\source\repos\WebINV\WebINV
+build_property._RazorSourceGeneratorDebug = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/cadClis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkQ2xpc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/cadClis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkQ2xpc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/cadClis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkQ2xpc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/cadClis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkQ2xpc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/cadClis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkQ2xpc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/CadProds/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/CadProds/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/CadProds/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/CadProds/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/CadProds/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/InvMaquis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWFxdWlzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/InvMaquis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWFxdWlzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/InvMaquis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWFxdWlzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/InvMaquis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWFxdWlzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/InvMaquis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWFxdWlzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/InvSofts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52U29mdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/InvSofts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52U29mdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/InvSofts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52U29mdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/InvSofts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52U29mdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/InvSofts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52U29mdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/lucas.mfsimiao/source/repos/WebINV/WebINV/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j5hnwdjmsl

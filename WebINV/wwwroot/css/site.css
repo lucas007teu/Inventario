@@ -1,0 +1,61 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: rgba(215, 224, 224, 0.8); 
+    margin: 0;
+    padding: 0;
+    background-image: url('site.css/imagem/fp'); 
+    background-size: cover; 
+    background-position: center; 
+}
+
+.container {
+    max-width: 60%;
+    margin: 10% auto;
+    border-radius: 70px;
+   
+}
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+    color: black;
+    
+}
+.btn {
+    display: inline-block;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.btn-blue {
+    background-color: #007bff;
+    color: #fff;
+    border: 1px solid #007bff;
+}
+
+    .btn-blue:hover {
+        background-color: #0056b3;
+        border-color: #0056b3;
+    }

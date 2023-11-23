@@ -1,0 +1,54 @@
+﻿@model IEnumerable<WebINV.Models.CadProd>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nserie)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Modelo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descr)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Obs)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nserie)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Modelo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descr)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Obs)
+            </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.idProd" class="btn btn-blue">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.idProd" class="btn btn-blue">Detalhes</a> |
+                    <a asp-action="Delete" asp-route-id="@item.idProd" class="btn btn-blue">Deletar</a>
+                </td>
+        </tr>
+}
+    </tbody>
+</table>
